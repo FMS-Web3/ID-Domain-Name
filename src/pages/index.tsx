@@ -44,7 +44,7 @@ const Home: NextPage = () => {
             spacing={{ base: 8, md: 10 }}
             py={{ base: 20, md: 2 }}
           >
-            
+          
             <div>
 
 
